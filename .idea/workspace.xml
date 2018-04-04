@@ -20,13 +20,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Strings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Strings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/Strings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lists.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/Lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="First Steps Towards Programming.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3. An Informal Introduction to Python/3.2. First Steps Towards Programming/First Steps Towards Programming.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -46,10 +60,12 @@
       <list>
         <option value="$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/Numbers.py" />
         <option value="$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/Strings.py" />
+        <option value="$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/Lists.py" />
+        <option value="$PROJECT_DIR$/3. An Informal Introduction to Python/3.2. First Steps Towards Programming/First Steps Towards Programming.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -78,6 +94,12 @@
               <item name="3. An Informal Introduction to Python" type="462c0819:PsiDirectoryNode" />
               <item name="3.1. Using Python as a Calculator" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="3. An Informal Introduction to Python" type="462c0819:PsiDirectoryNode" />
+              <item name="3.2. First Steps Towards Programming" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -100,7 +122,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Strings">
+  <component name="RunManager" selected="Python.First Steps Towards Programming">
+    <configuration name="First Steps Towards Programming" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonTutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. An Informal Introduction to Python/3.2. First Steps Towards Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. An Informal Introduction to Python/3.2. First Steps Towards Programming/First Steps Towards Programming.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonTutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/Lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,9 +198,13 @@
     <list>
       <item itemvalue="Python.Numbers" />
       <item itemvalue="Python.Strings" />
+      <item itemvalue="Python.Lists" />
+      <item itemvalue="Python.First Steps Towards Programming" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.First Steps Towards Programming" />
+        <item itemvalue="Python.Lists" />
         <item itemvalue="Python.Strings" />
         <item itemvalue="Python.Numbers" />
       </list>
@@ -197,6 +259,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/Strings.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
@@ -211,10 +287,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/Strings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. An Informal Introduction to Python/3.2. First Steps Towards Programming/First Steps Towards Programming.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
